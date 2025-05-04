@@ -8,7 +8,7 @@
 ## Maven
        
     <repositories>
-        <!-- Custom Configmanager Repository -->
+        <!-- Custom Repository -->
         <repository>
             <id>xyz.zeyso</id>
             <url>https://repo.zeyso.xyz/repo/</url>
@@ -16,7 +16,7 @@
 
     </repositories>
     <dependencies>
-        <!-- Custom Configmanager Dependency -->
+        <!-- Custom Dependency -->
         <dependency>
             <groupId>xyz.zeyso</groupId>
             <artifactId>MusicManager</artifactId>
